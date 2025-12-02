@@ -14,10 +14,10 @@ If you’re here because you searched for **“YearCompass app”** or **“Year
 
 ## Quick links
 
--  [Waypoints home](https://getwaypoints.app/)
--  [YearCompass 2026 (official booklet + release details)](https://getwaypoints.app/year-compass-2026)
--  [Is there a YearCompass app?](https://getwaypoints.app/year-compass-app)
--  [YearCompass alternatives](https://getwaypoints.app/year-compass-alternatives)
+-  [Waypoints home](https://getwaypoints.app/?ref=GitHub)
+-  [YearCompass 2026 (official booklet + release details)](https://getwaypoints.app/year-compass-2026/?ref=GitHub)
+-  [Is there a YearCompass app?](https://getwaypoints.app/year-compass-app/?ref=GitHub)
+-  [YearCompass alternatives](https://getwaypoints.app/year-compass-alternatives/?ref=GitHub)
 
 ---
 
@@ -25,7 +25,7 @@ If you’re here because you searched for **“YearCompass app”** or **“Year
 
 YearCompass is a beloved yearly reflection booklet (PDF) you can print or fill out digitally.
 
-✅ If you want the **official YearCompass 2025→2026 booklet** (often searched as “YearCompass 2026 PDF”), [start here](https://getwaypoints.app/year-compass-2026)
+✅ If you want the **official YearCompass 2025→2026 booklet** (often searched as “YearCompass 2026 PDF”), [start here](https://getwaypoints.app/year-compass-2026/?ref=GitHub)
 
 That page includes:
 - the **current release status**
